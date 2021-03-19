@@ -160,5 +160,5 @@ Agradeço inicialmente a todos aqueles que puderem contribuir com o projeto mand
 
 * Ao Banco Santander por ser a implementação mais tranquila do pix.
 * Agradecimento ao [Rodrigo Fleury](https://github.com/rfbastos) por identificar a questão do identificador de transação com o Banco Itaú.
-* A Micro Reis Informática pelos testes do GerenciaNet.
+* A [Micro Reis Informática](https://github.com/microreis) pelos testes do GerenciaNet.
 * Ao Banco itaú por ser a implementação mais implicante do pix.
