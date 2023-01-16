@@ -154,6 +154,7 @@ Esta implementação foi testada, realizando a leitura do QRCode, Pix Copia-e-Co
 ## Autor
 
 Desenvolvido em 2020/2021 por [Renato Monteiro Batista](https://renato.ovh).
+Desenvolvimento Impementação banco dados em 2022/2023 [PHABLO REIS (MRIE)](https://mrie.com.br)
 
 ## Agradecimentos
 
