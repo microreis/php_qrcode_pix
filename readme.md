@@ -1,4 +1,4 @@
-# php qrcode pix
+# php qrcode pix - Implemetação banco de dados
 
 Este repositório contém o conjunto de código necessário à implementação do QRCode de recebimento de pagamentos do [PIX do Banco Central](https://www.bcb.gov.br/estabilidadefinanceira/pix) em PHP.
 
